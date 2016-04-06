@@ -1,6 +1,6 @@
 {
   "name": "aigis-marked",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Custom markdown renderer for aigis used with marked.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,6 @@
   "dependencies": {
     "highlights": "^1.3.1",
     "language-jade": "git://github.com/devongovett/atom-jade.git",
-    "language-jsx": "github:icehunter/language-jsx",
     "language-stylus": "git://github.com/devongovett/atom-stylus.git",
     "language-yaml": "github:atom/language-yaml",
     "lodash": "^4.5.1",
