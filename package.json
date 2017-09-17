@@ -1,6 +1,6 @@
 {
   "name": "aigis-marked",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Custom markdown renderer for aigis used with marked.",
   "main": "index.js",
   "scripts": {
